@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "keyrelay-vault": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.keyrelayhq.com/mcp", "--header", "Authorization: Bearer kr_live_LUz3ONnMquDpBhETI7gxzhdSXpFfgY7w"]
+    }
+  }
+}
